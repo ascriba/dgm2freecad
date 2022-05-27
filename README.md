@@ -1,5 +1,5 @@
 # dgm2freecad
-Create a pointcloud from digital elevation model for use in frecad  BIM Workbench
+Create a pointcloud from digital elevation model for use in freecad BIM Workbench
 
 So far tested with geo-data from North Rhine-Westphalia, Germany
 
