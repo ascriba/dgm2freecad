@@ -8,7 +8,7 @@ https://www.opengeodata.nrw.de/produkte/geobasis/hm/dgm1_xyz/dgm1_xyz/
 
 This tool uses geo-data in the file format .xyz.
 Coordinate systems of the xyz - file is EPSG 25832 location, heights in EPSG 7837.
-![Gui_dgm2freecad](https://user-images.githubusercontent.com/18013240/170783270-cd5eca67-8b5c-4f21-8909-0809d6774b33.png)
+![freecad1](https://user-images.githubusercontent.com/18013240/170890219-8a12cc7e-eaf4-4f9d-8e7a-47087e42c022.png)
 
 
 
